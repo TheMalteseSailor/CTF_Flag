@@ -1,4 +1,3 @@
 # CTF_Flag
-Temporary location of CTF Flag.
 
-{FLAG:Temprary Flag Value.}
+FLAG{H011oW_p0!Nt_FR33d0M_S3ed5}
